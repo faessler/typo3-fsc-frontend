@@ -1,0 +1,24 @@
+{
+  "name": "typo3-fsc-frontend",
+  "version": "0.0.1",
+  "description": "Frontend Styles for TYPO3 fluid styled content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faessler/typo3-fsc-frontend.git"
+  },
+  "keywords": [
+    "typo3",
+    "fsc",
+    "fluid-styled-content"
+  ],
+  "author": "Jan Fässler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faessler/typo3-fsc-frontend/issues"
+  },
+  "homepage": "https://github.com/faessler/typo3-fsc-frontend#readme"
+}
